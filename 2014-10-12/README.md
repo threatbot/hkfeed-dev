@@ -54,7 +54,6 @@ The following are the top 10 attacker IP addresses today, including the frequenc
 ### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-     11 SSH-2.0-libssh2_1.4.2
-      1 SSH-2.0-OpenSSH_6.2
-      1 SSH-2.0-Granados-1.0
+     12 SSH-2.0-libssh2_1.4.2
+     11 SSH-2.0-OpenSSH_6.2
 ```
