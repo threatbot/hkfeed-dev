@@ -9,9 +9,9 @@ FFB1 47C1 326E A063
 
 ### Summary
 
-Total attacks today:  168202 1682090 30791013  
+Total attacks today: 168202  
 
-### Passwords
+#### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
     396 admin
@@ -41,7 +41,7 @@ The following are the top 25 passwords today, including the frequency of usage:
     151 12345678
 ```
 
-### Usernames
+#### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
  161067 root
@@ -49,7 +49,7 @@ The following are the top 3 usernames today, including the frequency of usage:
      16 ubuntu
 ```
 
-### IP addresses
+#### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
   38015 103.41.124.13
@@ -64,7 +64,7 @@ The following are the top 10 attacker IP addresses today, including the frequenc
    3042 122.225.103.121
 ```
 
-### SSH Library Version
+#### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
   46355 SSH-2.0-PUTTY
