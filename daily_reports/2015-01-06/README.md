@@ -12,7 +12,7 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: January 06, 2015  
-Total attacks today: 0  
+Total attacks today: 22875  
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
@@ -22,14 +22,47 @@ The following are the top 10 attacker IP addresses today, including the frequenc
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
+    383 admin
+    145 password1
+    136 root
+    132 password
+    131 123456
+    129 admin123
+    128 142536
+    126 root123
+    126 P@ssw0rd
+    126 1qaz2wsx
+    124 passw0rd
+    123 data
+    122 qwe123
+    122 123123
+    121 1234567890
+    121 12345678
+    120 toor
+    120 rootme
+    120 manager
+    119 firewall
+    119 12345
+    118 123qwe!@#
+    118 1234
+    117 qazxsw
+    117 cisco
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
+  19056 root
+   3712 admin
+     65 oracle
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
+   1266 SSH-2.0-libssh2_1.4.2
+    219 SSH-2.0-PUTTY
+    168 SSH-2.0-PuTTY_Release_0.63cn
+     22 SSH-2.0-libssh2_1.4.3
+     17 SSH-2.0-PuTTY_Release_0.63cn3
 ```
