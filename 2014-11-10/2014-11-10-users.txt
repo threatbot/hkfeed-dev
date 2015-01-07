@@ -1,5 +1,0 @@
-admin
-customer
-device
-isp
-root

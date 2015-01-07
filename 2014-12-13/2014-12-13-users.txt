@@ -1,7 +1,0 @@
-admin
-administrator
-root
-support
-test
-ubuntu
-user

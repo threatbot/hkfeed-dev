@@ -1,7 +1,0 @@
-admin
-fpt
-newadmin
-root
-support
-ubnt
-ubuntu

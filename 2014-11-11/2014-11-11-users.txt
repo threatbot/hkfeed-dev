@@ -1,5 +1,0 @@
-admin
-anonymous
-cisco
-root
-super
