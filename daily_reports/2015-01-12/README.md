@@ -12,67 +12,67 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: January 12, 2015  
-Total attacks today: 22105  
+Total attacks today: 25165  
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
    2878 122.225.109.221
-   2847 61.174.51.227
+   2848 61.174.51.227
    2531 122.225.97.98
    1663 61.174.51.229
    1568 122.225.109.198
    1382 61.174.51.218
    1170 122.225.97.86
    1163 122.225.97.66
+    955 218.2.0.121
     820 122.225.109.114
-    600 61.174.50.225
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    380 admin
-    154 root
-    124 123456
-    123 password
-    121 12345678
-    120 qwe123
-    120 admin123
-    120 1234
-    120 123123
-    119 rootme
-    119 redhat
-    119 Passw0rd
-    119 passw0rd
-    119 1qaz2wsx
-    119 1q2w3e4r
-    119 12345
-    118 toor
-    118 data
-    118 2wsx3edc
-    118 1234567890
-    117 root@123
-    117 qazxsw
-    117 manager
-    117 225588
-    117 142536
+    451 admin
+    187 root
+    147 password
+    146 12345678
+    143 123456
+    142 toor
+    141 12345
+    140 cisco
+    140 admin123
+    139 1234
+    138 manager
+    138 123123
+    136 root@123
+    136 passw0rd
+    136 2wsx3edc
+    136 142536
+    135 rootme
+    135 qwe123
+    135 1q2w3e4r
+    134 redhat
+    134 P@ssw0rd
+    134 1qaz2wsx
+    134 123qwe!@#
+    134 123.321
+    133 rootroot
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  18450 root
-   3593 admin
-     53 ubnt
+  21127 root
+   3956 admin
+     60 ubnt
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   1191 SSH-2.0-libssh2_1.4.2
-    160 SSH-2.0-libssh2_1.4.1
-    117 SSH-2.0-PuTTY_Release_0.63cn
-     55 SSH-2.0-PUTTY
-     25 SSH-2.0-libssh2_1.4.3
+   1339 SSH-2.0-libssh2_1.4.2
+    196 SSH-2.0-libssh2_1.4.1
+    182 SSH-2.0-PUTTY
+    133 SSH-2.0-PuTTY_Release_0.63cn
+     41 SSH-2.0-libssh2_1.4.3
 ```
