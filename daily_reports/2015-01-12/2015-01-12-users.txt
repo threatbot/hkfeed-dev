@@ -1,0 +1,6 @@
+admin
+ftpuser
+PlcmSpIp
+root
+support
+ubnt
