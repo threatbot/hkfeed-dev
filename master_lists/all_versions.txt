@@ -36,6 +36,7 @@ SSH-2.0-paramiko_1.14.0
 SSH-2.0-paramiko_1.15.1
 SSH-2.0-paramiko_1.15.2
 SSH-2.0-paramiko_1.7.5
+SSH-2.0-paramiko_1.7.7.1
 SSH-2.0-paramiko_1.8.1
 SSH-2.0-Pipls-1.0
 SSH-2.0-PUTTY
