@@ -271,6 +271,7 @@ centos
 cgi
 ch
 char
+christian
 cisco
 client
 cmd
@@ -295,6 +296,7 @@ db2fenc1
 db2inst
 db2inst1
 dd
+debug
 deepak
 default
 demo
@@ -378,6 +380,7 @@ library
 lily
 linux
 lll
+log
 login
 logout
 loguser
@@ -502,6 +505,7 @@ sauser
 sbkim
 scan
 search
+sebastian
 sef
 send
 server
@@ -516,6 +520,7 @@ shoutcast
 slview
 smecher
 smmsp
+smtp
 splunk
 squid
 ssh
@@ -561,6 +566,7 @@ transfar
 trib
 ts
 ts3
+ts3srv
 ttt
 ubnt
 ubuntu
